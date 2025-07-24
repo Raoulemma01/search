@@ -110,4 +110,4 @@ const styles = {
   }
 };
 
-export default SearchFilterApp;
+export default App;
